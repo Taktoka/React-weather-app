@@ -1,0 +1,14 @@
+.info {
+  padding: 10px;
+}
+.info p {
+  width: 90%;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 10px;
+  font-size: 17px;
+  letter-spacing: 1px;
+  color: #fff;
+}
+.info p:last-child {
+  border: none;
+}
